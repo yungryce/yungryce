@@ -2,5 +2,5 @@
 
 **Welcome to my world**
 
-✨✨*here for some fun*✨✨
+✨✨*let's have some fun*✨✨
 
