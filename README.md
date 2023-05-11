@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**✨✨Welcome to my worlds✨✨**
+**✨✨Welcome to my world**
 
-*here for some fun*
+✨✨*here for some fun*✨✨
 
