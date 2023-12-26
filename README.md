@@ -2,16 +2,14 @@
 
 <br/>
 
-### Hey, I'm Chigbu Joshua! :wave:
+### Hey, I'm Chigbu Joshua! 👋
 
 **Welcome to my Coding Haven!**  
 
 ✨✨ *Embark on a Digital Journey with Me!* ✨✨
 
-I'm a passionate coder and tech enthusiast, and this is where my digital journey unfolds. Join me in exploring the realm of innovative solutions, creative coding, and problem-solving adventures.
-
-
-**Welcome to my world**  
+I'm a passionate coder and tech enthusiast, and this is where my digital journey unfolds.
+Join me in exploring the realm of innovative solutions, creative coding, and problem-solving adventures.
 
 ✨✨*let's have some fun*✨✨
 
@@ -24,7 +22,7 @@ I'm a passionate coder and tech enthusiast, and this is where my digital journey
 <hr>
 <br/>
 
-|Name | Badges|
+| **🌐 Tech Stack:** | Badges|
 |--- | --- |
 |**Languages**  |  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)|
 |**Frameworks, Platforms and Libraries**  |  [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)|
