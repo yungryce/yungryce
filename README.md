@@ -34,4 +34,4 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
 
 
 [![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)](https://github.com/yungryce/github-readme-stats)
-[![yungryce's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yungryce)](https://github.com/yungryce/github-readme-stats)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
