@@ -34,18 +34,11 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
 
 
 [![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)](https://github.com/yungryce/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10)](https://github.com/yungryce/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical)](https://github.com/yungryce/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/yungryce/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/yungryce/python_apps/tree/master/flask/task_manager">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical)" />
 </a>
