@@ -34,6 +34,4 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
 
 
 [![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)](https://github.com/yungryce/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yungryce&repo=github-readme-stats&show_owner=true)](https://github.com/yungryce/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&layout=donut)](https://github.com/yungryce/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/yungryce/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=donut&langs_count=10)](https://github.com/yungryce/github-readme-stats)
