@@ -33,5 +33,5 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
 |**Systems**  |  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://opensource.com/resources/linux) [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) |
 
 
-[![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical)](https://github.com/yungryce/github-readme-stats)
+[![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)](https://github.com/yungryce/github-readme-stats)
 [![yungryce's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yungryce)](https://github.com/yungryce/github-readme-stats)
