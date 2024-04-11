@@ -36,3 +36,9 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
 [![yungryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github)](https://github.com/yungryce/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical)](https://github.com/yungryce/github-readme-stats)
 
+<a href="https://github.com/yungryce/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github" />
+</a>
+<a href="https://github.com/yungryce/python_apps/tree/master/flask/task_manager">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical" />
+</a>
