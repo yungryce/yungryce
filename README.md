@@ -37,5 +37,5 @@ Ready for a coding adventure? Let's create something amazing together! 🚀
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yungryce&show_icons=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/yungryce/python_apps/tree/master/flask/task_manager">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical&layout=pie" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungryce&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=radical" />
 </a>
